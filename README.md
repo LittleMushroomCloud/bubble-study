@@ -12,6 +12,16 @@ Developer name: Little Mushroom Cloud
 
 English name: Bubble Study
 
+## 立即下载
+
+Android 用户可以直接下载最新版 APK：
+
+[下载最新版 APK](https://github.com/LittleMushroomCloud/bubble-study/releases/latest/download/BubbleStudy-release.apk)
+
+如果上面的直链无法打开，也可以进入 [GitHub Releases](https://github.com/LittleMushroomCloud/bubble-study/releases/latest) 页面，下载 `BubbleStudy-release.apk`。
+
+安装时如果系统提示“未知来源应用”，请确认文件来自本项目的 GitHub Release 页面后再继续安装。
+
 ## 核心体验
 
 - 一个泡泡按钮，快速开始学习
