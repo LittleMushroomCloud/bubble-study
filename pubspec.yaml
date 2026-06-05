@@ -1,0 +1,29 @@
+name: bubble_study
+description: "轻泡自习（Bubble Study）：一个梦幻海洋泡泡式学习计时应用。"
+publish_to: 'none'
+
+version: 1.0.6+18
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.5
+  wakelock_plus: ^1.6.1
+  path_provider: ^2.1.5
+  share_plus: ^13.1.0
+  intl: ^0.20.2
+  file_selector: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

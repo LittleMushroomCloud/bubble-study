@@ -1,0 +1,55 @@
+轻泡自习 (Bubble Study) Source Available License
+
+Copyright (c) 2026 小蘑菇云同学 (Little Mushroom Cloud)
+
+This license applies to the 轻泡自习 (Bubble Study) source code and documentation in this
+repository, unless a file clearly states otherwise.
+
+1. Permitted use
+
+You may view, read, and study the source code for personal, non-commercial
+learning, research, security review, and feedback purposes.
+
+You may run the software locally for personal, non-commercial evaluation.
+
+2. Restrictions
+
+Without prior written permission from the copyright holder, you may not:
+
+- copy, redistribute, publish, mirror, or otherwise make available substantial
+  portions of this software;
+- modify, adapt, translate, or create derivative works based on this software;
+- distribute modified or unmodified versions of this software;
+- use this software, in whole or in part, for commercial purposes;
+- include this software in a commercial product, service, training material,
+  paid course, paid template, or monetized distribution;
+- remove or obscure copyright, author, license, or attribution notices;
+- use the 轻泡自习 or Bubble Study name, application icon, visual assets, store listing
+  materials, screenshots, or branding without separate permission.
+
+3. Commercial licensing
+
+Commercial use, redistribution, modification, integration into another product,
+or publication of derivative versions requires a separate written license from
+the copyright holder.
+
+4. Contributions
+
+Unless otherwise agreed in writing, any contribution submitted to this project
+grants the copyright holder permission to use, modify, publish, and distribute
+that contribution as part of 轻泡自习 (Bubble Study) under this license or a future license
+chosen by the copyright holder.
+
+5. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
+
+6. Notes
+
+This is a source-available license, not an OSI-approved open source license.
+Public access to the source code does not grant permission for commercial use,
+redistribution, or derivative publication.
