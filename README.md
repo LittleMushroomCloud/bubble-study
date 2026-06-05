@@ -27,6 +27,16 @@ Android 用户可以直接下载最新版 APK：
 - GitHub 仓库：[LittleMushroomCloud/bubble-study](https://github.com/LittleMushroomCloud/bubble-study)
 - Gitee 镜像：[littlemushroomcloud/bubble-study](https://gitee.com/littlemushroomcloud/bubble-study)
 
+## 界面预览
+
+<p>
+  <img src="docs/images/01_start.png" alt="开始界面" width="180">
+  <img src="docs/images/03_study_20min.png" alt="学习 20 分钟左右界面" width="180">
+  <img src="docs/images/05_study_60min.png" alt="学习 60 分钟左右界面" width="180">
+  <img src="docs/images/06_resting.png" alt="休息中界面" width="180">
+  <img src="docs/images/07_settings_zh.png" alt="中文设置页" width="180">
+</p>
+
 ## 核心体验
 
 - 一个泡泡按钮，快速开始学习
