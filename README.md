@@ -34,6 +34,7 @@ Android 用户可以直接下载最新版 APK：
   <img src="docs/images/03_study_20min.png" alt="学习 20 分钟左右界面" width="180">
   <img src="docs/images/05_study_60min.png" alt="学习 60 分钟左右界面" width="180">
   <img src="docs/images/06_resting.png" alt="休息中界面" width="180">
+  <img src="docs/images/15_total_time.png" alt="累计学习时长界面" width="180">
   <img src="docs/images/07_settings_zh.png" alt="中文设置页" width="180">
 </p>
 
