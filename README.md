@@ -22,6 +22,11 @@ Android 用户可以直接下载最新版 APK：
 
 安装时如果系统提示“未知来源应用”，请确认文件来自本项目的 GitHub Release 页面后再继续安装。
 
+## 源码与镜像
+
+- GitHub 仓库：[LittleMushroomCloud/bubble-study](https://github.com/LittleMushroomCloud/bubble-study)
+- Gitee 镜像：[littlemushroomcloud/bubble-study](https://gitee.com/littlemushroomcloud/bubble-study)
+
 ## 核心体验
 
 - 一个泡泡按钮，快速开始学习
